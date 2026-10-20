@@ -1,2 +1,5 @@
-# mavrista_cybersecurity_internship
-Cybersecurity Fundamentals Internship
+# Mavrista Cybersecurity Internship
+
+Intern: Jayasri Murugesan
+Company: Mavrista Technologies
+Duration: Oct-Dec 2026
